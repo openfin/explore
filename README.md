@@ -21,5 +21,11 @@ script/cibuild
 ```
 
 ## Licenses
-
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+
+The code in this repository is covered by the included license.
+
+However, if you run this code, it may call on the OpenFin RVM or OpenFin Runtime, which are covered by OpenFin’s Developer, Community, and Enterprise licenses. You can learn more about OpenFin licensing at the links listed below or just email us at support@openfin.co with questions.
+
+https://openfin.co/developer-agreement/ <br/>
+https://openfin.co/licensing/
